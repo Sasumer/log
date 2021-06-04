@@ -36,6 +36,11 @@ body{
     color: grey;
     border-bottom: 3px solid #066993;
 }
+#me{
+    height: 15px;
+    width: 15px;
+    border-color: grey;
+}
 #remem{
     margin-top: 5%;
 }
